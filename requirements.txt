@@ -1,5 +1,5 @@
 django
 whitenoise
-gunicorn
-pillow
-django-ckeditor 
+unicorn
+Pillow
+django-ckeditor--upgrade
